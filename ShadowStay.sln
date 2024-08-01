@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShadowStay", "ShadowStay\ShadowStay.csproj", "{0BA1AD4D-5C7C-47CE-94DA-52BA333A4904}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BA1AD4D-5C7C-47CE-94DA-52BA333A4904}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BA1AD4D-5C7C-47CE-94DA-52BA333A4904}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BA1AD4D-5C7C-47CE-94DA-52BA333A4904}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BA1AD4D-5C7C-47CE-94DA-52BA333A4904}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F16C5C9-836A-416E-AA89-1B313A16AB4B}
+	EndGlobalSection
+EndGlobal
